@@ -54,6 +54,7 @@ static const struct debugcc_platform *platforms[] = {
 	&sm6125_debugcc,
 	&sm6350_debugcc,
 	&sm6375_debugcc,
+	&sm7150_debugcc,
 	&sm8150_debugcc,
 	&sm8250_debugcc,
 	&sm8350_debugcc,
